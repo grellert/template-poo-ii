@@ -1,2 +1,12 @@
-# template-poo-ii
-Template para trabalho final de POO-II
+# Modelo para o Trabalho Final de POO-II
+Esse modelo contém uma estrutura pronta para entrega de todas as etapas do Trabalho Final (TF) de POO-II.
+
+Os alunos deverão desenvolver um jogo interativo e com interface gráfica utilizando todos os conceitos estudados no decorrer da disciplina.
+
+O TF é desenvolvido ao longo do semestre e terá 3 entregas. Cada entrega possui um diretório no repositório:
+ - Diagrama UML das classes
+ - Projeto de interface gráfica, contendo telas de início e fim, menus, bem como da view principal do jogo
+ - Protótipo do jogo com mecanismos principais implementados
+ - Versão final para entrega
+
+Os grupos serão avaliados de forma objetiva (aplicação de conceitos, entregas no prazo, etc) e também subjetiva (qualidade e eficiência do código, trabalho em equipe, etc).
