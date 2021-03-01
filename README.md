@@ -7,6 +7,13 @@ O TF é desenvolvido ao longo do semestre e terá 3 entregas. Cada entrega possu
  - Diagrama UML das classes
  - Projeto de interface gráfica, contendo telas de início e fim, menus, bem como da view principal do jogo
  - Protótipo do jogo com mecanismos principais implementados
- - Versão final para entrega
+ - Versão final para entrega, contendo relatório, códigos/diagramas e um vídeo explicando o projeto.
 
 Os grupos serão avaliados de forma objetiva (aplicação de conceitos, entregas no prazo, etc) e também subjetiva (qualidade e eficiência do código, trabalho em equipe, etc).
+
+Aqui vai um exemplo de TODO list contendo as etapas.
+- [x] Descrição do jogo
+- [ ] Diagramas UML (09-mar-2021)
+- [ ] Interface Gráfica (02-abr-2021)
+- [ ] Protótipo do jogo (02-abr-2021)
+- [ ] Versão final com relatório e vídeo (07-mai-2021)
